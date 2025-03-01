@@ -390,10 +390,6 @@ body{
     html{
         font-size   : 60%;
     }
-    .simply-countdown-dark > .simply-section {
-        padding : 20px;
-        margin  : 3px;
-    }
 
     .home .heart{
         display     : none;
